@@ -27,9 +27,6 @@ st.header("Simulador de neurona")
 
 # Definición de la clase Neuron #####################################
 
-import numpy as np
-import math
-
 class Neuron:
   """
   Esta clase define las características y el comportamiento
